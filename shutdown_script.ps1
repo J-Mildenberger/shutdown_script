@@ -29,6 +29,9 @@ Function Main
     } 
     else { Write-Output "Wrong User Input - restart and try again"}
     Write-Host "####### shutdown aborted ######" -fore Cyan
+
+
+    Read-Host -Prompt “Press Enter to exit”
 }
 
 Function Time_and_abort{
