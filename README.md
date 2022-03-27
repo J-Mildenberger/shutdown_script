@@ -16,9 +16,11 @@ In general the script will guide the user, therefore there is actually no reason
 <br />
 nevertheless you can find instructions in the following.  
 
-At first the user has to enter the desired shutdown time in the Format [dez][h] or [dez][min] or dez[s].
-"dez" is an even natural number.  
-"h" is hours. "min" is minutes. "s" is seconds.  
+At first the user has to enter the desired shutdown time in the Format [dez][h] or [dez][min] or dez[s].   
+"dez" is an even natural number.     
+"h" is hours.   
+"min" is minutes.   
+"s" is seconds.     
 
 User input example: **1h**  
 User input example: **60min**  
