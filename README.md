@@ -7,9 +7,9 @@ Operating system: Windows10
 **Right click on file -> execute as PowerShell Script**
 
 In general the script will guide the user, therefore there is actually no reason to continue reading at this point.
-
-
-
+   
+   
+   
 nevertheless you can find instructions in the following.  
 
 At first the user has to enter the desired shutdown time in the Format [dez][h] or [dez][min] or dez[s].
